@@ -1,0 +1,12 @@
+C:\Users\jbmoo\source\repos\JasonMoore-CPT206-Lab-2\bin\Debug\CityDB.mdf
+C:\Users\jbmoo\source\repos\JasonMoore-CPT206-Lab-2\bin\Debug\CityDB_log.ldf
+C:\Users\jbmoo\source\repos\JasonMoore-CPT206-Lab-2\bin\Debug\JasonMoore-CPT206-Lab-2.exe.config
+C:\Users\jbmoo\source\repos\JasonMoore-CPT206-Lab-2\bin\Debug\JasonMoore-CPT206-Lab-2.exe
+C:\Users\jbmoo\source\repos\JasonMoore-CPT206-Lab-2\bin\Debug\JasonMoore-CPT206-Lab-2.pdb
+C:\Users\jbmoo\source\repos\JasonMoore-CPT206-Lab-2\obj\Debug\JasonMoore-CPT206-Lab-2.csproj.AssemblyReference.cache
+C:\Users\jbmoo\source\repos\JasonMoore-CPT206-Lab-2\obj\Debug\JasonMoore_CPT206_Lab_2.Form1.resources
+C:\Users\jbmoo\source\repos\JasonMoore-CPT206-Lab-2\obj\Debug\JasonMoore_CPT206_Lab_2.Properties.Resources.resources
+C:\Users\jbmoo\source\repos\JasonMoore-CPT206-Lab-2\obj\Debug\JasonMoore-CPT206-Lab-2.csproj.GenerateResource.cache
+C:\Users\jbmoo\source\repos\JasonMoore-CPT206-Lab-2\obj\Debug\JasonMoore-CPT206-Lab-2.csproj.CoreCompileInputs.cache
+C:\Users\jbmoo\source\repos\JasonMoore-CPT206-Lab-2\obj\Debug\JasonMoore-CPT206-Lab-2.exe
+C:\Users\jbmoo\source\repos\JasonMoore-CPT206-Lab-2\obj\Debug\JasonMoore-CPT206-Lab-2.pdb
